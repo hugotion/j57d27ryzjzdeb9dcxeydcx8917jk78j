@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = ""
+baseURL = "https://hugotion.github.io/j57d27ryzjzdeb9dcxeydcx8917jk78j/"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
